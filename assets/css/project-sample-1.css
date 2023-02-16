@@ -294,11 +294,11 @@ body { font-family: sans-serif }
 
 	.menu-desktop-light .item-menu ul li a:hover,
 	.menu-desktop-light .item-menu ul li a:active {
-		color: #c60021;
+		color: #272d30;
 	}
 
 	.menu-desktop-light .item-menu ul li a.btn-solid { 
-		background-color: #c60021; border-color: #c60021; color: #fff; font-weight:bold
+		background-color: transparent; border-color: #272d30; color: #272d30; font-weight:500;
 	}
 
 	.menu-desktop-light .item-menu ul li a.btn-solid:hover, 
@@ -312,12 +312,12 @@ body { font-family: sans-serif }
 	.menu-desktop-transparent .item-menu ul li a { color: #fff;font-weight:bold }
 
 	.menu-desktop-transparent .item-menu ul li a.btn-solid { 
-		background-color: #c60021; border-color: #c60021; color: #fff;
+		background-color: transparent; border-color: #ffffff; color: #ffffff;
 	}
 
 	.menu-desktop-transparent .item-menu ul li a.btn-solid:hover, 
 	.menu-desktop-transparent .item-menu ul li a.btn-solid:active { 
-		background-color: #fff; color: #c60021; border-color: #c60021;
+		background-color: #ffffff; color: #272d30; border-color: #ffffff;
 	}
 
 	/*== Sticky desktop menu == */
