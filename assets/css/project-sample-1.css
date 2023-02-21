@@ -309,7 +309,7 @@ body { font-family: sans-serif }
 	/*== Transparent desktop menu == */
 	.menu-desktop-transparent { background-color: transparent }
 
-	.menu-desktop-transparent .item-menu ul li a { color: #fff;font-weight:bold }
+	.menu-desktop-transparent .item-menu ul li a { color: #fff;font-weight:500 }
 
 	.menu-desktop-transparent .item-menu ul li a.btn-solid { 
 		background-color: transparent; border-color: #ffffff; color: #ffffff;
